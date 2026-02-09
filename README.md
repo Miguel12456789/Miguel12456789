@@ -1,7 +1,7 @@
 ## Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,react,express,nodejs,python,spring,mongodb,mysql,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js,express,nodejs,python,cs,cpp,mongodb,mysql,bootstrap,html,css" />
 </p>
 
 ---
@@ -9,6 +9,6 @@
 ## Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,npm,vscode,visualstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,visualstudio" />
 </p>
 
