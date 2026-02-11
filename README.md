@@ -6,11 +6,7 @@
 
 ###
 
-<h1 align="center">Miguel Martins</h1>
-
-###
-
-<p align="center">Full Stack Developer | Software Developer</p>
+<h2 align="center">Full Stack Developer | Software Developer</h2>
 
 ###
 
